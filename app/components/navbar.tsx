@@ -11,7 +11,7 @@ export default function Navbar() {
       {/* mobile screens */}
       <div className="md:hidden h-full flex justify-between items-center ">
         <Link href="/">
-          <div className="tracking-wide text-2xl font-semibold">Ria's</div>
+          <div className="tracking-wide text-2xl font-semibold">Ria&apos;s</div>
         </Link>
         <Menu/>
       </div>
